@@ -10,6 +10,6 @@ Open Terminal
    <h2><a href="https://www.youtube.com/@jutrm">Tutorial</a></h2><br>
 
 FOLLOW FOR MORE UPDATES<br>
-<a href="https://www.jutrm.com" style="color:red;">Web Site</a><br>
-<a href="https://www.youtube.com/@jutrm">Tutorial</a><br>
+<a href="https://www.jutrm.com" style="color:red;">WEB SITE</a><br>
+<a href="https://www.youtube.com/@jutrm">YOUTUBE</a><br>
 <a href="https://www.instagram.com/jutrmraja/" style="color:hotpink;">INSTAGRAM</a>
