@@ -10,5 +10,5 @@ Open Terminal
    <h2><a href="https://www.youtube.com/@jutrm">Tutorial</a></h2><br>
 
 FOLLOW FOR MORE UPDATES<br>
-<a href="www.jutrm.com" style="color:red;">YOUTUBE</a><br>
+<a href="https://www.jutrm.com" style="color:red;">YOUTUBE</a><br>
 <a href="https://www.instagram.com/jutrmraja/" style="color:hotpink;">INSTAGRAM</a>
