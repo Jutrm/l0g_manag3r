@@ -1,14 +1,14 @@
 # l0g_manag3r
 log_manager It was a Python based tool. Its help monitor the website and give the victor data [IP, IN AND OUT TIME, HOSTNAME] into the text file
 
-steps for run the tool:-
+Steps for run the tool:-
 Open Terminal
-1) <h1>git clone <a>l0g_manager</a></h1>
-2) <h1>cd logmanager Directory</h1>
-3) python run.py
+1) <h3>git clone https://github.com/Jutrm/l0g_manag3r.git</h3>
+2) <h3>cd logmanager</h3>
+3) <h3>python run.py</h3>
 
-   <a href="https://www.youtube.com/@jutrm">tutorial</a>
+   <h2><a href="https://www.youtube.com/@jutrm">Tutorial</a></h2><br>
 
 FOLLOW FOR MORE UPDATES
-<a href="www.jutrm.com" style="background-color:red">YOUTUBE</a>
-<a href="https://www.instagram.com/jutrmraja/" style="background-color:hotpink">INSTAGRAM</a>
+<a href="www.jutrm.com" style="color:red;">YOUTUBE</a><br>
+<a href="https://www.instagram.com/jutrmraja/" style="color:hotpink;">INSTAGRAM</a>
